@@ -1,0 +1,1 @@
+Ahora puedo hacer un commit y subir la carpeta archivos porque al crear 'respuesta.txt' deja de estar vacía, que era el problema inicial.
