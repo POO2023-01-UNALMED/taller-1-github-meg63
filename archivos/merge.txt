@@ -1,3 +1,5 @@
 Maria Alejandra Echavarría Correa 
 19 años
 Mis expectativas con la materia son adquirir nuevos conocimientos y habilidades que me resulten interesantes y útiles para mi carrera.
+Ahora puedo hacer un commit y subir la carpeta archivos porque al crear 'respuesta.txt' deja de estar vacía, que era el problema inicial.
+Es importante tener cuidado con modificar dos archivos al mismo tiempo porque podemos ocasionar problemas entre versiones o cambios que no se puedan adaptar entre si.
