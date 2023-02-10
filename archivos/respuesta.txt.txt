@@ -1,1 +1,1 @@
-No aparece la creacion de una carpeta si esta vacìa 
+No aparece la creacion de una carpeta si esta vacìa, por lo tanto no se puede hacer un commit.
